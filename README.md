@@ -12,3 +12,7 @@ This project showcases implementations of key Computer Graphics algorithms using
 
 Each program demonstrates the practical application of a specific algorithm in rendering graphics using OpenGL's basic primitives and interactive input.
 
+Screenshots:
+![image](https://github.com/user-attachments/assets/8ea95024-b35e-41d0-b84d-a9ba4e3aa8aa)
+![image](https://github.com/user-attachments/assets/9cad8e1e-6510-4ba8-935c-5eaf0bdd4bb3)
+
