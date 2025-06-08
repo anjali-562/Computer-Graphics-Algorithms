@@ -4,9 +4,9 @@ Implementation of core Computer Graphics algorithms in C using OpenGL, including
 This project showcases implementations of key Computer Graphics algorithms using OpenGL and C.
 
 - Line clipping (Cohen-Sutherland)
-- Line drawing (Bresenham)
+- Line drawing (Bresenham and DDA)
+- Polygon Filling(flood fill)
 - Fractal generation (Koch curve)
-- Curve plotting (Bezier curve)
 - 2D transformations (translate, rotate, scale, shear)
   
 
